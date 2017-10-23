@@ -1,16 +1,16 @@
 /* #*/ export const PERSON = `
 name:
-  first: John
+  first: Mohamed
   middle:
-  last: Doe
-about: Hi, my name is John Doe. I"m just about the most boring type of person you could
+  last: Mhiri
+about: Peace be upon you, my name is John Doe. I"m just about the most boring type of person you could
        possibly imagine. I like collecting leaves from the tree in my back yard and documenting
        each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
-position: Software Developer
+position: Software Engineer
 
 birth:
-  year: 1990
-  location: New York
+  year: 1994
+  location: Tunis
 
 experience:
 - company: Company A
@@ -59,12 +59,12 @@ knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
   (English and Klingon).
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: med.mhiri.5@email.com
+  phone: 58115344
+  street: 4 street Mutuelle ville
+  city: Tunis
+  website: https://mohamedmhiri.github.io
+  github: mohamedmhiri
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, nl, he, zh-tw, lt, ko
 lang: en
 `
