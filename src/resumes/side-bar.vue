@@ -74,17 +74,20 @@
           </div>
           <div class="skills-block">
               <h3>{{ lang.headings.skills }}</h3>
-              <div class="skills">
-                      <div class="skill" v-for="skill in person.skills" :key="skill.name">
-                          <span class="skill-name">{{skill.name}}</span>
-                      </div>
-              </div>
-              <span class="skills-other"> {{person.knowledge}} </span>
+              <!--<div class="skills">-->
+                      <!--<div class="skill" v-for="skill in person.skills" :key="skill.name">-->
+                          <!--<span class="skill-name">{{skill.name}}</span>-->
+                      <!--</div>-->
+
+              <!--</div>-->
+              <!--<span class="skills-other"> {{person.knowledge}} </span>-->
+            <ul>
+              <li class="wrapper" v-for="skill in person.skills" v-text="skill.name"></li>
+            </ul>
           </div>
       </div>
   </div>
 
-  </div>
 </template>
 
 <script>
@@ -232,6 +235,9 @@ export default Vue.component(name, getVueOptions(name));
           margin-top:20px;
         }
       }
+    }
+    .wrapper {
+      display: grid;
     }
   }
 }

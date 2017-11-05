@@ -3,10 +3,10 @@ name:
   first: Mohamed
   middle:
   last: Mhiri
-about: Peace be upon you, my name is John Doe. I"m just about the most boring type of person you could
+// about: Peace be upon you, my name is John Doe. I"m just about the most boring type of person you could
        possibly imagine. I like collecting leaves from the tree in my back yard and documenting
        each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
-position: Software Engineer
+position: Software Engineering Student
 
 birth:
   year: 1994
@@ -29,38 +29,103 @@ experience:
   description: Making coffee and baking cookies.
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
 
-- degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
-  description: Major in Engineering, University B, Los Angeles, USA.
+- degree: Bachelor of Software Engineering
+  timeperiod: 2013 - 2018
+#  description: Major in Engineering, University B, Los Angeles, USA.
+
+- degree: Baccalaureate of Mathematics
+  timeperiod: 2012 - 2013
+  description: Good mention
 
 # skill level goes 0 to 100
 skills:
-- name: HTML5
-  level: 99
-- name: CSS3
-  level: 95
-- name: JavaScript
-  level: 97
-- name: Node.js
-  level: 93
-- name: Angular 2
-  level: 60
-- name: TypeScript
-  level: 80
-- name: ES.Next
-  level: 70
-- name: Docker
-  level: 99
+#- name: HTML5
+#  level: 99
+#- name: CSS(3,4)
+#  level: 95
+#- name: JavaScript
+#- name: ES2015
+#- name: Node.js (5,6,7,8)
+#  level: 93
+#- name: Angular 2
+#  level: 60
+#- name: TypeScript
+#  level: 80
+#- name: ES.Next
+#  level: 70
+#- name: Docker
+#  level: 99
+- name: C, C++
+- name: java (5,6,7,8), RMI, Corba, JMS, javaEE, SpringCore, SpringMVC, SpringREst, SpringData, SpringBoot, Hibernate, JPA,
+- name: python (2.7, 3.5, 3.6), Django, DjangoRest, Panda, Matplotlib, Sklearn, Numpy, Networking in Python
+- name: .Net, C# (2,3,4,5,6,7), ASP.Net, EntityFramework, NHibernate, .NetCore,
+- name: Javascript, ES6, ES7, ES8, D3.js, JQuery, Knockout.Js
+- name: Nodejs (5,6,7,8), ExpressJs, NextJs,
+- name: AngularJs, Angular (2,4), NativeScript, Ionic
+- name: php (5,6,7), Laravel5, Symfony (2,3)
+- name: Unix, Linux
+- name: SqlLite, MySql, OracleDb, MongoDb, Postgresql,
+- name: Html5, Thymeleaf, Blade, Twig, XHTML
+- name: Kestrel, IIS, Apache, Nginx
+- name: Matlab
+- name: R
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
+- name:
 knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
   (English and Klingon).
 
 contact:
   email: med.mhiri.5@email.com
-  phone: 58115344
+  phone: +216 58 11 53 44
   street: 4 street Mutuelle ville
   city: Tunis
   website: https://mohamedmhiri.github.io
